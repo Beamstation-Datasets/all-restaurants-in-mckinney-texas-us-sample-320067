@@ -1,6 +1,6 @@
 # All Restaurants in McKinney, Texas, US
 
-> Free BeamStation sample export with 45 rows and masked direct-contact fields.
+> Free BeamStation sample export with 36 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `320067` |
 | Location | McKinney |
 | Category | Restaurants |
-| Full dataset size | 453 records |
-| Free sample size | 45 records (9.93%) |
-| Last export | 2026-04-14T18:30:54.381200+00:00 |
+| Full dataset size | 361 records |
+| Free sample size | 36 records (9.97%) |
+| Last export | 2026-04-21T20:22:31.018979+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-mckinney-texas-us-sample-320067/releases/download/sample-latest/beamstation_320067_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
