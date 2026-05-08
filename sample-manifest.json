@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c22c66a7-5a0f-448a-8abd-9185107072ea",
+  "export_job_id": "c62f1600-a668-47c5-b75c-9bb9a1ab21f6",
   "id_short": 320067,
-  "published_at": "2026-04-29T07:33:13Z",
+  "published_at": "2026-05-08T07:04:49Z",
   "repo_name": "all-restaurants-in-mckinney-texas-us-sample-320067",
   "sample_asset_name": "beamstation_320067_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/320067/beamstation_320067_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 46,
-  "sample_sha256": "e2c6225f0390e07761345718943976b0a391938c97bad105569b290eaf974148",
-  "sample_size_bytes": 181987,
-  "total_records": 464
+  "sample_records": 49,
+  "sample_sha256": "a1c5830566f30d6f2109a4ede05f0dd636421fd22ae061fc444bb0a6a65ce01b",
+  "sample_size_bytes": 190105,
+  "total_records": 492
 }
